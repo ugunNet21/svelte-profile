@@ -2,6 +2,7 @@
 	import Profile from './Profile.svelte';
 	import Projects from './Projects.svelte';
 	import Skills from './Skills.svelte';
+	import QuranProject from './QuranProject.svelte';
   </script>
   
   <main>
@@ -12,6 +13,7 @@
 	/>
 	<Skills />
 	<Projects />
+	<QuranProject />
   </main>
   
   <style>
